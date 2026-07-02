@@ -83,6 +83,14 @@ ZEOGPT 页面提供 Codex 体验入口，包含五档思考深度（Low → Medi
 | 有海外支付，不需要中转 | 官方 API 直连 |
 
 ---
+---
+
+## 长期更新版
+
+这篇内容后续会继续整理到网站教程中，方便统一查看：
+
+- ChatGPT 中文教程站：https://www.chinachatgpt.com/
+- 相关主题：ChatGPT 中文版、Codex、API 中转、AI 工具教程
 
 **按需求选入口：**开发者 API 调用 → [ZeoAPI](https://www.zeoapi.com/register?aff=FM4J) · 普通使用 → [ZEOGPT](https://www.zeogpt.com/register?ref=Ac3KbS3F) · 官方订阅协助 → [GPTBuy](https://gptbuys.com/?ref=LIJUN)
 以上均为第三方服务，与 OpenAI 无官方授权关系。
