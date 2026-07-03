@@ -4,6 +4,8 @@
 
 三个东西经常被混在一起说，但它们解决的问题完全不同。这篇用开发者视角拆清楚。
 
+- [2026-07-03｜不是程序员，怎么用 Codex 帮你干活（法务招聘都在用）](posts/20260703-codex-non-programmer-workflow.md)
+
 > 🌟 **第三方开发者入口（非 OpenAI 官方）：**
 >
 > • [ZeoAPI](https://www.zeoapi.com/register?aff=FM4J) — API 中转，国内访问更方便，通常兼容 OpenAI 调用格式
