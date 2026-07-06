@@ -5,6 +5,7 @@
 三个东西经常被混在一起说，但它们解决的问题完全不同。这篇用开发者视角拆清楚。
 
 - [2026-07-03｜Codex Pro、API 中转、镜像站：同一个任务哪个划算](posts/20260703-codex-pro-api-mirror-cost.md)
+- [2026-07-06 | Meta 要发编程新模型对标 Claude Code，当前 AI 编程格局一览](posts/20260706-meta-coding-model-vs-claude.md)
 
 
 > 🌟 **第三方开发者入口（非 OpenAI 官方）：**
