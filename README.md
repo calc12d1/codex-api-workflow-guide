@@ -4,6 +4,7 @@
 
 三个东西经常被混在一起说，但它们解决的问题完全不同。这篇用开发者视角拆清楚。
 
+- [2026-07-08 | Claude 编程超越 ChatGPT，为什么大公司还在用 GPT](posts/20260708-claude-beats-chatgpt-coding-enterprise.md)
 - [2026-07-07 | 阿里封杀 Claude Code，国内开发者还能怎么用](posts/20260707-alibaba-bans-claude-code.md)
 - [2026-07-03｜Codex Pro、API 中转、镜像站：同一个任务哪个划算](posts/20260703-codex-pro-api-mirror-cost.md)
 - [2026-07-06 | Meta 要发编程新模型对标 Claude Code，当前 AI 编程格局一览](posts/20260706-meta-coding-model-vs-claude.md)
